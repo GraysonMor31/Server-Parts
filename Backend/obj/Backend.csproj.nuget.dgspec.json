@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Website\\Server-Parts\\Backend\\ServerBackend\\ServerBackend.csproj": {}
+    "D:\\Website\\Server-Parts\\Backend\\Backend.csproj": {}
   },
   "projects": {
-    "D:\\Website\\Server-Parts\\Backend\\ServerBackend\\ServerBackend.csproj": {
+    "D:\\Website\\Server-Parts\\Backend\\Backend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Website\\Server-Parts\\Backend\\ServerBackend\\ServerBackend.csproj",
-        "projectName": "ServerBackend",
-        "projectPath": "D:\\Website\\Server-Parts\\Backend\\ServerBackend\\ServerBackend.csproj",
+        "projectUniqueName": "D:\\Website\\Server-Parts\\Backend\\Backend.csproj",
+        "projectName": "Backend",
+        "projectPath": "D:\\Website\\Server-Parts\\Backend\\Backend.csproj",
         "packagesPath": "C:\\Users\\grays\\.nuget\\packages\\",
-        "outputPath": "D:\\Website\\Server-Parts\\Backend\\ServerBackend\\obj\\",
+        "outputPath": "D:\\Website\\Server-Parts\\Backend\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
