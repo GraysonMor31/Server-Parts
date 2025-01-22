@@ -1,0 +1,69 @@
+# Build artifacts
+bin/
+obj/
+
+# User-specific files
+*.user
+*.userosscache
+*.suo
+
+# Logs and debug
+*.log
+*.vspscc
+.vscode/
+settings.json
+
+# Environment files
+.env
+
+# Rider/JetBrains IDE files
+.idea/
+*.iml
+
+# Dependencies
+packages/
+.nuget/
+
+# Temporary files
+*.tmp
+*.temp
+*.DS_Store
+
+# Visual Studio working folders
+.vs/
+
+# Configuration files
+appsettings.*.json
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# Dependency directories
+node_modules/
+
+# Environment files
+.env
+
+# Build output
+dist/
+build/
+
+# Temporary files
+*.tmp
+*.temp
+*.DS_Store
+
+# IDE-specific
+.idea/
+.vscode/
+*.iml
+
+# OS-specific
+Thumbs.db
+.DS_Store
+
+# Testing
+coverage/
+.nyc_output/
