@@ -11,7 +11,6 @@ obj/
 *.log
 *.vspscc
 .vscode/
-settings.json
 
 # Environment files
 .env
@@ -31,39 +30,12 @@ packages/
 
 # Visual Studio working folders
 .vs/
+settings.json
 
 # Configuration files
 appsettings.*.json
+appsettings.json
 
-# Logs
-logs/
-*.log
-npm-debug.log*
-
-# Dependency directories
-node_modules/
-
-# Environment files
-.env
-
-# Build output
-dist/
-build/
-
-# Temporary files
-*.tmp
-*.temp
-*.DS_Store
-
-# IDE-specific
-.idea/
-.vscode/
-*.iml
-
-# OS-specific
-Thumbs.db
-.DS_Store
-
-# Testing
-coverage/
-.nyc_output/
+# .NET Core
+Backend.http
+Backend.http-sharp
