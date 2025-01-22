@@ -39,3 +39,4 @@ appsettings.json
 # .NET Core
 Backend.http
 Backend.http-sharp
+*.sln
